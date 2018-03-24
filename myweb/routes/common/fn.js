@@ -4,7 +4,7 @@ var fn = {
         res.end('list Page : ' + no);
     },
     view : function(){
-
+        res.end('view ');
     },
     delete : function(){
 
